@@ -21,7 +21,7 @@ int main()
 	
 	cout << "Pi: ";
 	cout<<fixed<<setprecision(8)<<pi;
-	cout << " with " << iterations << " iteractions.\n";
+	cout << " with " << iterations << " iterations.\n";
 	
     return 0;
 }
